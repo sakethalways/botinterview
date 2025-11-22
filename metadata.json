@@ -1,0 +1,8 @@
+{
+  "name": "AI InterviewBot",
+  "description": "A real-time voice-enabled interview practice partner with live audio visualization and detailed post-interview analytics.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
